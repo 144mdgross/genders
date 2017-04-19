@@ -1,5 +1,5 @@
 {
-  "name": "genders",
+  "name": "array-of-genders",
   "version": "1.0.0",
   "description": "an array of genders for dynamically generating inclusive gender lists",
   "main": "genders.js",

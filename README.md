@@ -1,9 +1,10 @@
 ## genders
 
-```An extensive list of genders to make dynamically generating gender options for your project easy. Because being inclusive is important.```
+An extensive list of genders to make dynamically generating gender options for your project easy. Because being inclusive is important.
 
 
-```Remember...
+```
+Remember...
 
 biological sex doesn't determine gender.
 

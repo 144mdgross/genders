@@ -1,0 +1,28 @@
+{
+  "name": "genders",
+  "version": "1.0.0",
+  "description": "an array of genders for dynamically generating inclusive gender lists",
+  "main": "genders.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/144mdgross/genders.git"
+  },
+  "keywords": [
+    "gender",
+    "genders",
+    "list",
+    "text",
+    "array",
+    "inclusive",
+    "string"
+  ],
+  "author": "Megan Gross",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/144mdgross/genders/issues"
+  },
+  "homepage": "https://github.com/144mdgross/genders#readme"
+}
